@@ -21,6 +21,7 @@ function App() {
           count is {count}
         </button>
         console.log('hello')
+        console.log("ts")
         <p>
           Edit <code>src/App.tsx</code> and save to test HMR
         </p>
