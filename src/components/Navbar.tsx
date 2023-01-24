@@ -49,7 +49,7 @@ export default function Navbar() {
         <Link to={"/account"}>
         <Typography>Account</Typography>
         </Link>
-
+      console.log("helo")
         </Box>       
       </Box>
     </Stack>
