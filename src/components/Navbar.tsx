@@ -74,4 +74,5 @@ export default function Navbar() {
       
     </Box>
   );
+  console.log("i will be back")
 }
